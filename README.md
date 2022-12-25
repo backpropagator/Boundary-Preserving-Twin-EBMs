@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/548737145.svg)](https://zenodo.org/badge/latestdoi/548737145)
+
 # Boundary-Preserving-Twin-EBMs
 Repository for Boundary-Preserving Twin-EBMs
 
